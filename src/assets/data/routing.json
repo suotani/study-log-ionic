@@ -32,7 +32,13 @@
       {"title": "Show・Read型クラス", "id": "60"},
       {"title": "Enum型クラス", "id": "62"},
       {"title": "Bounded型クラス", "id": "65"},
-      {"title": "Num・Floating・Integral型クラス", "id": "67"}
+      {"title": "Num・Floating・Integral型クラス", "id": "67"},
+      {"title": "パターンマッチ", "id": "69"},
+      {"title": "タプルのパターンマッチ", "id": "74"},
+      {"title": "リストのパターンマッチ", "id": "82"},
+      {"title": "asパターン", "id": "84"},
+      {"title": "ガードを使った場合分け", "id": "86"},
+      {"title": "whereキーワード", "id": "88"}
     ]
   },
   {
