@@ -49,7 +49,7 @@ export class ArticlePage {
         rendered: string
       },
       date: string
-    }>('http://uosansatox.wp.xdomain.jp/index.php?rest_route=/wp/v2/posts/' + id)
+    }>('https://www.studylog.shop/index.php?rest_route=/wp/v2/posts/' + id)
       .subscribe(data => {
         this.post = data;
       });
